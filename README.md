@@ -76,7 +76,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MAkmal01&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MAkmal01&theme=tokyonight&margin-w=15&no-frame=true"/>
 
 </p>
 
