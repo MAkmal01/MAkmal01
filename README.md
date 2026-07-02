@@ -92,7 +92,7 @@
 > ASP.NET Core MVC | SQL Server
 
 ### 🏋️ Gym Management System
-> Angular | ASP.NET Core Web API | SQL Server
+> HTML,CSS3 | Node JS,Express JS | MySQL Server
 
 ### 👨‍💼 Employee Management System
 > Angular | ASP.NET Core | SQL Server
