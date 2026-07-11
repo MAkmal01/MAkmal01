@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Akmal</h1>
-<h3 align="center">Backend Developer | Java | Spring Boot | ASP.NET Core | Angular</h3>
+<h3 align="center">Backend Developer | Java | Spring Boot | Spring AI | React</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot;ASP.NET+Core+Developer;Angular+Developer;AI+%26+Machine+Learning+Enthusiast" />
@@ -11,7 +11,7 @@
 
 - 🎓 BS Computer Science Graduate
 - 💻 Backend Developer
-- 🌱 Currently learning **Spring Boot, ASP.NET Core & Angular**
+- 🌱 Currently learning **Spring Boot, Java & React**
 - 🚀 Passionate about Full Stack Development
 - 📫 Email: **babuajmal55@gmail.com**
 
