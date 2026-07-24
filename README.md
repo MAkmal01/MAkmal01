@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Akmal</h1>
-<h3 align="center">Backend Developer | Java | Spring Boot | Spring AI | React</h3>
+<h3 align="center">Full Stack Developer | Next.js  | MERN Stack | React.js | Node.js |Express.js |MongoDB </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;ReactJS+Learner;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Full Stack Developer;;REST+API+Developer;ReactJS;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,8 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 BS Computer Science Graduate
-- 💻 Backend Developer
-- 🌱 Currently learning **Spring Boot, Java & React**
+- 💻 Full Stack Developer
 - 🚀 Passionate about Full Stack Development
 - 📫 Email: **babuajmal55@gmail.com**
 
