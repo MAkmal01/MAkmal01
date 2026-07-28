@@ -37,4 +37,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Auto-update profile metrics" || echo "Nothing to commit"
+           git pull --rebase origin main 
           git push
