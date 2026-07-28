@@ -102,7 +102,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=MAkmal01&theme=tokyonight"/>
+<img src="https://./profile/streak-stats.svg)?user=MAkmal01&theme=tokyonight"/>
 
 </p>
 
@@ -123,7 +123,8 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MAkmal01&theme=tokyo-night"/>
+
+<img src="https://./profile/activity-graph.svg/graph?username=MAkmal01&theme=tokyo-night"/>
 
 </p>
 
