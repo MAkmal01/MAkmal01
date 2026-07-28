@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Next.js  | MERN Stack | React.js | Node.js |Express.js |MongoDB </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Full Stack Developer;;REST+API+Developer;ReactJS;AI+%26+Machine+Learning+Enthusiast"  />
+  **Full Stack Developer | REST API Developer | ReactJS | AI & Machine Learning Enthusiast**
 </p>
 
 ---
