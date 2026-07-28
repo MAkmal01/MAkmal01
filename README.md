@@ -102,7 +102,7 @@
 
 <p align="center">
 
-<img src="https://./profile/streak-stats.svg)?user=MAkmal01&theme=tokyonight"/>
+<img src="./profile/streak-stats.svg"/>
 
 </p>
 
@@ -124,8 +124,7 @@
 <p align="center">
 
 
-<img src="https://./profile/activity-graph.svg/graph?username=MAkmal01&theme=tokyo-night"/>
-
+<img src="./profile/activity-graph.svg"/>
 </p>
 
 ---
